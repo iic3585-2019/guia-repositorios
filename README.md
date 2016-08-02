@@ -30,7 +30,7 @@ Agregar al compañero:
 
 ## Repositorios
 
-### Creción para cada tarea
+### Creación para cada tarea
 
 Lo mejor es dejar cada proyecto en un propio repositorio, así tenemos un `git log` más ordenado y no mezclamos peras con manzanas.
 
