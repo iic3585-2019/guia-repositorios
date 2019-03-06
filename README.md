@@ -6,7 +6,7 @@ Cómo configurar Github y su uso durante el ramo
 
 ### Cuenta en Github
 
-Se debe contar con una cuenta en [Github]() y asegurarse de [contestar el formulario](https://goo.gl/forms/uYHFZ5W2u8D3TzGC3) para ser incluído en esta organización.
+Se debe contar con una cuenta en [Github]() y asegurarse de [contestar el formulario](https://goo.gl/forms/xBoyFR7hfD3dSGV73) para ser incluído en esta organización.
 
 Te llegará un correo con un botón para aceptar la invitación al correo asociado a Github.
 
